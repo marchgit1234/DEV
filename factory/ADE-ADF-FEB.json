@@ -1,0 +1,9 @@
+{
+	"name": "ADE-ADF-FEB",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "4f64080b-0fad-4109-ad83-ed180e7edf58",
+		"tenantId": "c4f839a8-1752-4871-9b85-ac3fbfcea5f9"
+	}
+}
